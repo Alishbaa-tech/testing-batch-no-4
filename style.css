@@ -1,0 +1,51 @@
+.Alishba{
+    text-align: center;
+    background-color: lightgreen;
+    height: 800px;
+}
+#hero-section{
+    font-style: normal;
+    padding: 10px;
+}
+#Alishba{
+    border-radius: 50px;
+    border: none;
+    text-align: center 20px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 10px;
+
+}
+#hero-para{
+    width: 600px;
+    margin-left: 350px;
+    
+}
+#img{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+#alishbaa{
+    display: flex;
+    background-color: black;
+    color: white;
+    margin: 300px;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 8px;
+    
+}
+#buttonno{
+    background-color: black;
+color: white;   
+border-color: aquamarine;
+ border-radius: 20px;
+ padding: 8px;
+ text-align: center;
+ 
+}
